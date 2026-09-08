@@ -1,0 +1,10 @@
+# clasp（ローカルとGASプロジェクトの紐付け。プロジェクトIDを含むのでコミットしない）
+.clasp.json
+
+# 認証情報
+.clasprc.json
+*.env
+
+# OS
+.DS_Store
+Thumbs.db

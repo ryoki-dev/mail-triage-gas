@@ -1,0 +1,15 @@
+{
+  "scriptId": "ここに Apps Script プロジェクトのスクリプトIDを入れる",
+  "rootDir": ".",
+  "filePushOrder": [
+    "appsscript.json",
+    "src/Config.gs",
+    "src/Classifier.gs",
+    "src/GmailService.gs",
+    "src/SheetLogger.gs",
+    "src/Notifier.gs",
+    "src/Main.gs",
+    "src/Setup.gs",
+    "test/Tests.gs"
+  ]
+}

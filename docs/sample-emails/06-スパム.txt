@@ -1,0 +1,9 @@
+From: WINNER NOTICE <noreply@lottery-notice.example>
+Subject: おめでとうございます！あなたは選ばれました
+
+あなたのメールアドレスが当選しました。
+賞金 5,000,000 円を受け取るには、下記リンクから
+氏名・住所・口座情報をご登録ください。
+
+24時間以内に手続きがない場合、権利は失効します。
+今すぐこちら → http://claim-your-prize.example/verify
